@@ -1,0 +1,411 @@
+index,LocationLatitude,LocationLongitude,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8_Price,Q8_Quality Fresh,Q8_Ingredients,Q8_Vegan,Q8_Non_Vegan,Q9,Q10,Q11,Q12,Q13,Q14,Q15,Q16
+0,40.75889587,-73.99130249,19-25,Female,,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date",4,5,2,3,1,Yes,School,4.0,Yes,2.0,3.0,,No Say
+1,40.72599792,-73.84799957,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,Yes,School,5.0,Yes,2.0,3.0,,No Say
+2,40.61790466,-73.98560333,18 or under,Female,North America/Central America,Middle school,Single,Yes,"Expiration date,Ingredients",1,3,2,5,4,Yes,Social media,2.0,No,1.0,5.0,Somewhat unlikely,No
+3,40.62080383,-74.04260254,19-25,Female,North America/Central America,Bachelor's degree,Single,No,Expiration date,1,2,3,5,4,Yes,TV,3.0,Yes,1.0,5.0,,No Say
+4,40.61790466,-73.98560333,19-25,Female,North America/Central America,High school,Single,No,"Expiration date,Other",3,1,2,5,4,Yes,Family and friends,3.0,Yes,2.0,3.0,,No Say
+5,3.07989502,101.53338620000001,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Manufacturing place,Sugar percentage,Expiration date,Ingredients",2,1,3,5,4,Yes,Family and friends,2.0,No,1.0,5.0,Neither likely nor unlikely,Maybe
+6,3.102600098,101.6288147,19-25,Female,Asia,Bachelor's degree,Single,No,"Manufacturing place,Expiration date",4,5,3,1,2,No,other,2.0,No,2.0,4.0,Somewhat likely,Maybe
+7,40.61790466,-73.98560333,19-25,Male,North America/Central America,High school,Single,No,"Calories,Other",1,2,3,4,5,Yes,TV,3.0,No,3.0,3.0,Somewhat likely,Yes
+8,40.63679504,-74.00050354,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,Calories,1,2,3,4,5,Yes,Family and friends,2.0,Yes,3.0,3.0,,No Say
+9,40.598007200000005,-73.94670105,18 or under,Female,North America/Central America,High school,Prefer not to say,Sometimes,"Calories,Expiration date,Ingredients",3,1,2,4,5,Yes,School,3.0,Yes,1.0,5.0,,No Say
+10,40.66270447,-73.9138031,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",1,2,3,5,4,No,other,5.0,Yes,2.0,5.0,,No Say
+11,40.7960968,-73.95130157,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Sugar percentage,Expiration date,Ingredients",4,5,3,1,2,Yes,Family and friends,3.0,Yes,2.0,5.0,,No Say
+12,40.73640442,-73.86949921,26-35,Female,North America/Central America,Master's degree,Married,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",3,1,2,5,4,Yes,Social media,2.0,Yes,3.0,2.0,,No Say
+13,40.751296999999994,-73.88300323,46 and above,Female,North America/Central America,Bachelor's degree,Married,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,4,5,No,other,1.0,No,1.0,3.0,Somewhat likely,No
+14,40.59779358,-74.00009918,36-45,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Manufacturing place,Expiration date",2,1,3,4,5,Yes,TV,2.0,No,1.0,5.0,Somewhat likely,Maybe
+15,40.61860657,-73.92720032,19-25,Male,North America/Central America,Bachelor's degree,Single,No,Expiration date,1,2,3,5,4,Yes,Advertisement,1.0,No,1.0,5.0,,Maybe
+16,40.71820068,-74.04759979,26-35,Female,Asia,Bachelor's degree,Married,Yes,"Sugar percentage,Vitamins and mineral nutrients,Ingredients",4,2,3,1,5,Yes,Family and friends,3.0,Yes,1.0,1.0,,No Say
+17,40.62080383,-74.04260254,19-25,Male,North America/Central America,Master's degree,Single,Sometimes,Expiration date,1,2,3,4,5,No,other,1.0,No,1.0,1.0,Somewhat likely,Maybe
+18,40.76809692,-73.82910156,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,Calories,2,1,3,4,5,Yes,Social media,2.0,Yes,3.0,3.0,,No Say
+19,3.106506348,101.6079102,19-25,Female,Asia,Bachelor's degree,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,5,4,Yes,Social media,2.0,No,1.0,3.0,Extremely likely,Yes
+20,22.61480713,120.31390379999999,19-25,Female,Asia,High school,Single,No,"Calories,Expiration date,Ingredients",2,1,3,4,5,No,other,2.0,No,1.0,5.0,Neither likely nor unlikely,Maybe
+21,3.136505127,101.6940918,19-25,Male,Asia,Bachelor's degree,Single,Sometimes,Vitamins and mineral nutrients,1,2,3,4,5,Yes,School,2.0,No,1.0,4.0,Neither likely nor unlikely,Maybe
+22,40.62950134,-74.09380341,26-35,Female,North America/Central America,Bachelor's degree,Married,Sometimes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,5,4,Yes,Social media,2.0,No,3.0,4.0,Somewhat likely,Yes
+23,40.785507200000005,-73.84500122,19-25,Male,North America/Central America,Bachelor's degree,Single,No,Calories,4,5,3,2,1,Yes,Family and friends,2.0,No,1.0,5.0,Somewhat likely,Maybe
+24,3.106002808,101.71798709999999,19-25,Female,Asia,Bachelor's degree,Single,Yes,Expiration date,4,5,3,1,2,Yes,Family and friends,3.0,Yes,2.0,3.0,,No Say
+25,40.71569824,-74.0,19-25,Male,North America/Central America,Master's degree,Single,Yes,"Calories,Sugar percentage,Expiration date",1,2,3,5,4,Yes,Family and friends,3.0,Yes,2.0,5.0,,No Say
+26,40.84620667,-73.99539948,19-25,Female,North America/Central America,High school,Single,No,"Calories,Expiration date,Ingredients",2,1,3,5,4,Yes,Family and friends,2.0,Yes,1.0,2.0,,No Say
+27,3.149200439,101.6950989,19-25,Female,Asia,Bachelor's degree,Single,Yes,"Calories,Manufacturing place,Expiration date,Ingredients",3,1,2,5,4,Yes,Family and friends,2.0,No,1.0,5.0,Somewhat unlikely,No
+28,3.167098999,101.6708069,19-25,Female,Other,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,4,5,Yes,Family and friends,3.0,Yes,3.0,3.0,,No Say
+29,3.118896484,101.6745911,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Expiration date,Ingredients",3,1,2,4,5,Yes,Family and friends,4.0,Yes,3.0,3.0,,No Say
+30,40.74290466,-73.93920135,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage",1,2,3,4,5,Yes,Family and friends,4.0,Yes,2.0,4.0,,No Say
+31,3.769607544,103.2224121,19-25,Female,Asia,Bachelor's degree,Single,Yes,Vitamins and mineral nutrients,2,1,3,4,5,Yes,Social media,2.0,No,3.0,3.0,Somewhat unlikely,No
+32,3.1446990969999997,101.7007141,19-25,Female,Asia,High school,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,No,other,3.0,Yes,3.0,3.0,,No Say
+33,3.139602661,101.6853027,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Sugar percentage,Expiration date,Ingredients",3,2,1,4,5,Yes,Family and friends,3.0,Yes,2.0,4.0,,No Say
+34,3.083297729,101.5332947,26-35,Female,Asia,Bachelor's degree,Married,Sometimes,"Manufacturing place,Sugar percentage,Expiration date,Ingredients",3,1,2,4,5,Yes,Social media,3.0,No,1.0,1.0,Extremely unlikely,No
+35,3.102600098,101.6288147,Prefer not to say,Prefer not to say,Other,Bachelor's degree,Single,Sometimes,"Sugar percentage,Expiration date,Ingredients",3,1,2,5,4,Yes,Social media,3.0,No,1.0,3.0,Neither likely nor unlikely,Yes
+36,3.102600098,101.6288147,18 or under,Female,Asia,Bachelor's degree,Single,Sometimes,Ingredients,2,1,3,5,4,Yes,Social media,3.0,No,2.0,4.0,Somewhat likely,Yes
+37,40.73590088,-73.99040222,19-25,Female,North America/Central America,High school,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Other",2,1,3,5,4,Yes,Family and friends,5.0,Yes,2.0,4.0,,No Say
+38,3.101303101,101.6914978,18 or under,Female,Asia,High school,Single,Sometimes,"Calories,Expiration date",4,5,3,1,2,Yes,Social media,2.0,Yes,3.0,4.0,,No Say
+39,3.1419067380000003,101.69338990000001,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Calories,Vitamins and mineral nutrients,Expiration date,Ingredients",1,2,3,5,4,Yes,Family and friends,3.0,Yes,1.0,5.0,,No Say
+40,3.106506348,101.6079102,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,Yes,Family and friends,3.0,Yes,2.0,2.0,,No Say
+41,3.144302368,101.671814,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Manufacturing place,Sugar percentage,Expiration date,Ingredients",4,5,3,1,2,Yes,Family and friends,5.0,Yes,2.0,3.0,,No Say
+42,-31.91929626,115.8200989,19-25,Female,Asia,Bachelor's degree,Single,No,"Sugar percentage,Expiration date",2,1,3,5,4,Yes,School,2.0,Yes,2.0,5.0,,No Say
+43,-31.827606199999998,115.86419679999999,19-25,Male,Asia,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date",2,1,4,5,3,Yes,Social media,2.0,No,1.0,4.0,Neither likely nor unlikely,Yes
+44,-31.96740723,115.86209109999999,19-25,Male,Other,Bachelor's degree,Prefer not to say,No,"Calories,Vitamins and mineral nutrients",2,1,3,4,5,Yes,Work,2.0,No,1.0,5.0,Neither likely nor unlikely,Maybe
+45,-32.00790405,115.88378909999999,19-25,Female,Other,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Expiration date,Ingredients",1,2,3,5,4,Yes,Social media,2.0,Yes,2.0,4.0,,No Say
+46,-32.00790405,115.88378909999999,19-25,Female,Asia,Bachelor's degree,Single,Yes,"Manufacturing place,Expiration date,Ingredients",2,1,3,5,4,No,other,2.0,Yes,1.0,4.0,,No Say
+47,-31.93919373,115.85140990000002,18 or under,Male,Asia,Middle school,Single,No,Expiration date,1,2,3,4,5,No,other,1.0,No,3.0,4.0,Neither likely nor unlikely,Maybe
+48,4.5756073,101.0787964,19-25,Female,Asia,Bachelor's degree,Single,Yes,"Manufacturing place,Sugar percentage,Expiration date,Ingredients",2,1,3,5,4,Yes,Family and friends,5.0,Yes,3.0,4.0,,No Say
+49,4.355102539,101.1252136,19-25,Female,Asia,Bachelor's degree,Prefer not to say,No,Expiration date,5,1,3,4,2,No,other,3.0,Yes,3.0,3.0,,No Say
+50,4.591598511,101.0967102,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Calories,Manufacturing place,Expiration date,Ingredients",4,5,3,1,2,Yes,Social media,5.0,Yes,3.0,5.0,,No Say
+51,3.167098999,101.6708069,19-25,Female,Asia,Bachelor's degree,Single,No,Expiration date,2,1,4,3,5,No,other,1.0,No,5.0,3.0,Somewhat likely,No
+52,40.78089905,-73.95020294,36-45,Female,North America/Central America,High school,Prefer not to say,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",1,2,4,3,5,Yes,Family and friends,3.0,Yes,2.0,5.0,,No Say
+53,24.07090759,120.5419006,18 or under,Female,Asia,High school,Single,Yes,Calories,1,2,3,4,5,Yes,Social media,3.0,Yes,2.0,3.0,,No Say
+54,40.76809692,-73.82910156,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Vitamins and mineral nutrients,Expiration date,Ingredients",1,2,3,4,5,Yes,School,3.0,No,2.0,4.0,Neither likely nor unlikely,Yes
+55,40.58279419,-73.95320129,19-25,Female,North America/Central America,Bachelor's degree,Married,Yes,"Sugar percentage,Expiration date,Ingredients",2,5,3,4,1,No,other,1.0,No,1.0,4.0,Neither likely nor unlikely,Yes
+56,1.3309021,103.87451170000001,19-25,Female,Asia,Middle school,Single,Yes,"Ingredients,Other",1,3,2,5,4,No,other,2.0,No,2.0,4.0,Somewhat likely,Maybe
+57,40.66270447,-73.9138031,26-35,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Expiration date",2,1,4,5,3,Yes,Social media,2.0,No,1.0,4.0,Somewhat likely,Yes
+58,4.355102539,101.1252136,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",1,3,2,4,5,Yes,TV,3.0,Yes,4.0,3.0,,No Say
+59,40.751296999999994,-73.82440186,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,"Sugar percentage,Expiration date",1,2,3,4,5,Yes,Family and friends,2.0,Yes,1.0,4.0,,No Say
+60,53.36149597,-1.5070037840000001,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,5,4,Yes,Advertisement,2.0,Yes,2.0,4.0,,No Say
+61,3.124893188,101.68310550000001,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients,Other",4,5,3,1,2,No,other,1.0,No,1.0,4.0,Somewhat likely,Yes
+62,40.66270447,-73.9138031,Prefer not to say,Prefer not to say,North America/Central America,High school,Prefer not to say,Sometimes,"Calories,Manufacturing place,Sugar percentage,Expiration date,Ingredients",3,1,2,4,5,No,other,2.0,No,1.0,4.0,Neither likely nor unlikely,Maybe
+63,40.62080383,-74.04260254,26-35,Male,North America/Central America,High school,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",4,2,1,3,5,Yes,Family and friends,4.0,Yes,4.0,3.0,,No Say
+64,3.139694214,101.68521120000001,19-25,Female,Asia,Bachelor's degree,Prefer not to say,Yes,"Sugar percentage,Expiration date,Ingredients",1,2,3,4,5,Yes,Social media,3.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+65,22.99079895,120.21328740000001,19-25,Female,Asia,High school,Single,Yes,"Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,5,4,1,2,Yes,Family and friends,4.0,Yes,3.0,5.0,,No Say
+66,40.61790466,-73.98560333,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,Calories,1,2,4,3,5,Yes,Social media,3.0,No,1.0,3.0,Neither likely nor unlikely,Yes
+67,40.75030518,-74.00140381,36-45,Female,North America/Central America,Middle school,Single,No,Other,1,3,4,5,2,Yes,Family and friends,3.0,Yes,3.0,2.0,,No Say
+68,40.85270691,-73.93830109,26-35,Male,North America/Central America,Master's degree,Single,Yes,"Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",5,4,3,1,2,Yes,School,2.0,No,2.0,5.0,Somewhat unlikely,Yes
+69,40.40640259,-79.98560333,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Manufacturing place,Sugar percentage,Expiration date",3,5,4,2,1,Yes,Family and friends,3.0,Yes,3.0,4.0,,No Say
+70,40.76530457,-73.95890045,19-25,Male,Asia,Bachelor's degree,Single,Yes,Other,1,2,3,4,5,Yes,TV,3.0,No,1.0,5.0,Somewhat likely,Yes
+71,40.73800659,-73.9858017,19-25,Female,North America/Central America,Bachelor's degree,Single,No,"Sugar percentage,Expiration date",2,1,3,5,4,Yes,Family and friends,3.0,Yes,2.0,5.0,,No Say
+72,40.81390381,-73.88410187,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,Calories,3,1,2,4,5,No,other,2.0,No,1.0,5.0,Somewhat likely,Yes
+73,40.68009949,-73.98470306,19-25,Male,North America/Central America,High school,Single,Yes,Sugar percentage,2,1,3,4,5,Yes,Social media,4.0,Yes,3.0,4.0,,No Say
+74,40.73800659,-73.9858017,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,2,1,5,4,Yes,TV,3.0,No,3.0,3.0,Neither likely nor unlikely,Yes
+75,40.67640686,-73.87529755,19-25,Female,North America/Central America,High school,Single,Yes,"Calories,Sugar percentage,Expiration date,Ingredients",2,1,3,5,4,Yes,Family and friends,3.0,Yes,2.0,3.0,,No Say
+76,3.118896484,101.6745911,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Calories,Manufacturing place,Expiration date",3,1,2,4,5,Yes,Family and friends,3.0,Yes,2.0,4.0,,No Say
+77,40.72599792,-73.84799957,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,4,5,Yes,Social media,2.0,Yes,2.0,5.0,,No Say
+78,40.67630005,-73.94920349,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Sugar percentage,Expiration date",1,2,3,4,5,Yes,TV,2.0,No,1.0,3.0,Neither likely nor unlikely,Maybe
+79,40.60020447,-74.14689636,19-25,Female,North America/Central America,High school,Single,Yes,Calories,1,2,3,4,5,No,other,5.0,Yes,4.0,4.0,,No Say
+80,40.76829529,-73.98020172,26-35,Male,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Expiration date,Ingredients",2,1,3,4,5,Yes,TV,5.0,Yes,2.0,5.0,,No Say
+81,40.59779358,-74.00009918,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,Yes,Family and friends,4.0,Yes,2.0,5.0,,No Say
+82,40.66430664,-73.9763031,19-25,Male,North America/Central America,High school,Single,Sometimes,"Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",4,5,3,1,2,Yes,Social media,2.0,No,1.0,5.0,Somewhat likely,Yes
+83,40.82310486,-73.95130157,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,Expiration date,3,5,4,1,2,Yes,Social media,2.0,No,1.0,4.0,Neither likely nor unlikely,Yes
+84,24.98890686,121.31759640000001,46 and above,Female,Asia,Bachelor's degree,Married,Yes,"Calories,Sugar percentage",2,1,5,3,4,Yes,TV,3.0,No,3.0,4.0,Neither likely nor unlikely,No
+85,24.14689636,120.6838989,46 and above,Male,Asia,Bachelor's degree,Married,No,Expiration date,2,1,3,4,5,Yes,TV,2.0,No,1.0,3.0,Somewhat unlikely,No
+86,25.04780579,121.5317993,46 and above,Male,Asia,Master's degree,Married,Yes,"Calories,Manufacturing place,Expiration date,Ingredients",4,5,3,1,2,Yes,TV,2.0,Yes,2.0,4.0,,No Say
+87,25.04780579,121.5317993,46 and above,Male,Asia,Master's degree,Married,Yes,Manufacturing place,2,4,3,1,5,No,other,3.0,Yes,2.0,4.0,,No Say
+88,25.04780579,121.5317993,46 and above,Male,Asia,Bachelor's degree,Married,Yes,"Calories,Manufacturing place,Sugar percentage,Expiration date,Ingredients",2,1,3,4,5,Yes,Social media,2.0,No,2.0,5.0,Somewhat likely,Yes
+89,24.98890686,121.31759640000001,36-45,Female,Asia,Bachelor's degree,Married,Yes,"Manufacturing place,Vitamins and mineral nutrients,Expiration date",3,5,2,1,4,Yes,TV,3.0,No,1.0,3.0,Somewhat likely,No
+90,40.66270447,-73.9138031,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Manufacturing place,Sugar percentage,Expiration date,Ingredients",3,1,2,5,4,Yes,Social media,4.0,No,1.0,5.0,Somewhat likely,Yes
+91,25.04780579,121.5317993,46 and above,Male,Asia,Bachelor's degree,Married,Sometimes,"Calories,Manufacturing place,Sugar percentage,Ingredients",3,1,2,4,5,Yes,TV,2.0,No,1.0,3.0,Neither likely nor unlikely,Yes
+92,25.04780579,121.5317993,46 and above,Female,Asia,Bachelor's degree,Married,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,4,5,Yes,TV,3.0,No,1.0,4.0,Extremely likely,Yes
+93,24.8065033,120.9706116,36-45,Female,Asia,Master's degree,Married,No,"Manufacturing place,Expiration date,Ingredients",3,1,2,5,4,Yes,TV,3.0,No,1.0,4.0,Neither likely nor unlikely,No
+94,25.04780579,121.5317993,46 and above,Male,Asia,Bachelor's degree,Married,Sometimes,"Manufacturing place,Expiration date,Ingredients",2,5,4,3,1,Yes,TV,4.0,No,1.0,4.0,Neither likely nor unlikely,No
+95,25.04780579,121.5317993,46 and above,Male,Asia,Bachelor's degree,Married,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",4,5,3,1,2,Yes,Family and friends,2.0,Yes,1.0,5.0,,No Say
+96,40.61860657,-73.92720032,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date",2,1,3,5,4,Yes,other,1.0,No,1.0,4.0,Somewhat likely,Yes
+97,23.97689819,121.6044006,46 and above,Male,Asia,Bachelor's degree,Married,Yes,"Calories,Manufacturing place,Expiration date",5,1,2,3,4,Yes,Family and friends,5.0,Yes,3.0,3.0,,No Say
+98,25.04780579,121.5317993,46 and above,Male,Asia,Bachelor's degree,Married,Yes,Vitamins and mineral nutrients,1,2,3,5,4,Yes,TV,3.0,No,1.0,3.0,Somewhat unlikely,Yes
+99,25.04780579,121.5317993,46 and above,Female,Asia,Bachelor's degree,Married,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",1,3,4,2,5,Yes,Advertisement,2.0,Yes,2.0,3.0,,No Say
+100,24.98890686,121.31759640000001,46 and above,Female,Asia,High school,Married,Yes,"Expiration date,Ingredients",3,2,1,4,5,Yes,TV,2.0,No,2.0,2.0,Neither likely nor unlikely,Maybe
+101,40.66270447,-73.9138031,19-25,Female,North America/Central America,Master's degree,Married,Yes,"Calories,Sugar percentage,Expiration date",3,1,2,4,5,Yes,Family and friends,4.0,No,1.0,4.0,Somewhat likely,Yes
+102,24.14689636,120.6838989,46 and above,Female,Asia,Bachelor's degree,Married,Yes,"Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,5,4,Yes,TV,3.0,No,1.0,5.0,Extremely unlikely,No
+103,40.73080444,-73.99749756,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,5,4,Yes,School,3.0,No,1.0,4.0,Somewhat likely,Yes
+104,3.139602661,101.6853027,26-35,Female,Asia,PH.D. or higher,Single,Yes,"Calories,Sugar percentage,Expiration date,Ingredients",2,4,3,5,1,Yes,Family and friends,4.0,Yes,3.0,1.0,,No Say
+105,24.47979736,118.0819092,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage",3,1,2,5,4,Yes,Social media,2.0,Yes,2.0,4.0,,No Say
+106,3.1446990969999997,101.7007141,19-25,Male,Asia,Bachelor's degree,Single,Yes,"Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",5,4,3,2,1,Yes,Family and friends,3.0,Yes,2.0,4.0,,No Say
+107,40.73800659,-73.9858017,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,5,4,Yes,Social media,2.0,No,1.0,5.0,Somewhat unlikely,No
+108,40.75469971,-73.96140289,19-25,Male,Asia,Master's degree,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",2,1,4,3,5,Yes,Family and friends,3.0,Yes,2.0,3.0,,No Say
+109,40.76829529,-73.98020172,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Vitamins and mineral nutrients,Expiration date",2,4,1,3,5,No,other,3.0,No,2.0,2.0,Neither likely nor unlikely,No
+110,40.7263031,-73.98179626,19-25,Female,North America/Central America,Master's degree,Single,Yes,"Calories,Sugar percentage,Expiration date",1,2,3,4,5,No,other,1.0,No,1.0,1.0,Somewhat likely,Maybe
+111,25.04780579,121.5317993,46 and above,Male,Asia,Bachelor's degree,Married,No,"Manufacturing place,Expiration date,Ingredients",5,4,3,1,2,Yes,TV,2.0,No,1.0,5.0,Somewhat likely,Yes
+112,25.04780579,121.5317993,26-35,Male,Asia,Master's degree,Married,Yes,"Manufacturing place,Ingredients",3,1,2,5,4,Yes,Social media,2.0,Yes,1.0,5.0,,No Say
+113,25.04780579,121.5317993,46 and above,Female,Asia,Bachelor's degree,Married,Yes,Expiration date,3,2,5,1,4,No,other,1.0,No,1.0,3.0,Neither likely nor unlikely,Maybe
+114,25.04780579,121.5317993,46 and above,Male,Asia,Bachelor's degree,Single,Sometimes,"Manufacturing place,Ingredients",5,1,2,3,4,No,other,1.0,No,1.0,2.0,Neither likely nor unlikely,Maybe
+115,24.14689636,120.6838989,36-45,Female,Asia,Bachelor's degree,Married,Sometimes,"Calories,Expiration date",2,3,1,4,5,Yes,TV,2.0,No,1.0,2.0,Somewhat likely,Maybe
+116,22.67140198,120.48809809999999,46 and above,Male,Asia,Bachelor's degree,Married,Sometimes,Ingredients,3,1,2,4,5,Yes,TV,2.0,No,1.0,5.0,Somewhat unlikely,Yes
+117,24.91389465,121.1838989,46 and above,Female,Asia,Bachelor's degree,Married,Sometimes,"Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,4,5,3,Yes,TV,1.0,No,1.0,5.0,Extremely unlikely,No
+118,51.3065033,1.036605835,19-25,Female,Europe,Bachelor's degree,Single,Yes,"Sugar percentage,Ingredients",5,3,4,1,2,Yes,Advertisement,4.0,Yes,3.0,2.0,,No Say
+119,25.04780579,121.5317993,Prefer not to say,Female,Asia,Bachelor's degree,Prefer not to say,Yes,"Manufacturing place,Expiration date,Ingredients",3,1,2,4,5,Yes,TV,2.0,No,1.0,3.0,Somewhat unlikely,Maybe
+120,40.68009949,-73.92070007,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",1,4,2,5,3,Yes,Family and friends,2.0,No,1.0,4.0,Neither likely nor unlikely,Yes
+121,40.72790527,-73.99659729,19-25,Female,North America/Central America,High school,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,4,5,Yes,Social media,2.0,No,1.0,4.0,Somewhat likely,Yes
+122,40.69940186,-73.88829803,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",3,1,2,5,4,Yes,Family and friends,2.0,No,1.0,5.0,Somewhat likely,Maybe
+123,51.43659973,5.480102539,46 and above,Male,Asia,Bachelor's degree,Married,Yes,"Calories,Manufacturing place,Expiration date,Ingredients",4,5,3,1,2,Yes,TV,2.0,No,2.0,5.0,Somewhat likely,Maybe
+124,40.57949829,-73.98889923,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date",5,4,3,2,1,Yes,Social media,2.0,No,1.0,5.0,Somewhat likely,Yes
+125,40.67129517,-73.89430237,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date,Ingredients",2,1,3,5,4,Yes,Advertisement,2.0,Yes,1.0,5.0,,No Say
+126,40.67630005,-73.94920349,26-35,Female,Asia,High school,Married,Yes,Sugar percentage,3,1,2,4,5,Yes,TV,2.0,Yes,2.0,3.0,,No Say
+127,40.83120728,-73.90670013,26-35,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date,Ingredients",1,2,3,4,5,Yes,TV,4.0,No,2.0,3.0,Somewhat likely,Maybe
+128,40.75469971,-73.96140289,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Expiration date,Ingredients",1,2,3,4,5,Yes,TV,2.0,No,1.0,3.0,Somewhat unlikely,Yes
+129,40.714492799999995,-74.00289917,26-35,Female,North America/Central America,Bachelor's degree,Married,Sometimes,"Calories,Expiration date",4,1,2,5,3,Yes,Social media,1.0,No,1.0,4.0,Somewhat unlikely,Maybe
+130,40.714492799999995,-74.00289917,26-35,Female,South America,Bachelor's degree,Single,Sometimes,"Sugar percentage,Expiration date",1,2,3,4,5,Yes,Family and friends,2.0,Yes,2.0,3.0,,No Say
+131,40.67399597,-73.9701004,26-35,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date,Ingredients",3,5,4,1,2,Yes,Advertisement,3.0,Yes,2.0,3.0,,No Say
+132,40.59559631,-74.08059692,26-35,Male,North America/Central America,High school,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",1,2,3,4,5,No,other,5.0,Yes,4.0,4.0,,No Say
+133,-27.49330139,153.07650759999999,46 and above,Female,Asia,Bachelor's degree,Single,Sometimes,"Manufacturing place,Expiration date",2,1,4,5,3,No,other,4.0,Yes,2.0,5.0,,No Say
+134,34.01210022,-117.68830109999999,19-25,Female,North America/Central America,Master's degree,Single,Yes,"Calories,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,5,4,Yes,Family and friends,3.0,Yes,2.0,4.0,,No Say
+135,33.95759583,-118.2669983,19-25,Male,North America/Central America,Master's degree,Single,Sometimes,"Calories,Sugar percentage,Ingredients",5,3,4,1,2,Yes,Family and friends,3.0,Yes,2.0,5.0,,No Say
+136,40.88000488,-74.10310364,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Expiration date",1,2,3,4,5,Yes,School,4.0,Yes,2.0,3.0,,No Say
+137,40.63749695,-74.02159882,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,Expiration date,3,1,2,4,5,Yes,Family and friends,3.0,Yes,2.0,5.0,,No Say
+138,30.29400635,120.16189579999998,19-25,Male,North America/Central America,High school,Single,Sometimes,"Calories,Manufacturing place,Expiration date,Ingredients",2,1,3,5,4,Yes,Social media,2.0,Yes,2.0,5.0,,No Say
+139,40.62080383,-74.04260254,19-25,Male,North America/Central America,High school,Single,Sometimes,Expiration date,2,1,3,4,5,No,other,3.0,No,2.0,5.0,Neither likely nor unlikely,Yes
+140,23.11669922,113.25,19-25,Female,Africa,Bachelor's degree,Single,Yes,Manufacturing place,2,4,5,3,1,Yes,TV,4.0,Yes,5.0,4.0,,No Say
+141,33.64610291,-117.84249879999999,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date,Ingredients",2,1,3,4,5,Yes,Social media,3.0,No,1.0,3.0,Somewhat likely,Yes
+142,40.72419739,-74.1977005,19-25,Female,North America/Central America,Bachelor's degree,Married,Yes,"Calories,Sugar percentage,Expiration date",1,2,3,4,5,Yes,Social media,3.0,Yes,4.0,5.0,,No Say
+143,40.66430664,-73.9763031,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date",3,1,2,5,4,Yes,Family and friends,2.0,Yes,2.0,5.0,,No Say
+144,40.74650574,-73.90899658,19-25,Prefer not to say,North America/Central America,Bachelor's degree,Prefer not to say,No,Other,2,1,3,5,4,Yes,Social media,3.0,Yes,2.0,5.0,,No Say
+145,40.63749695,-74.02159882,19-25,Male,North America/Central America,Bachelor's degree,Married,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,4,5,Yes,Social media,2.0,No,2.0,2.0,Somewhat likely,Yes
+146,39.95869446,-82.998703,19-25,Female,Asia,Bachelor's degree,Single,Yes,Calories,2,1,3,4,5,No,other,3.0,No,2.0,4.0,Somewhat likely,Yes
+147,43.04460144,-78.78289795,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,Calories,1,2,3,4,5,Yes,Social media,3.0,Yes,2.0,5.0,,No Say
+148,42.97669983,-78.79589844,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage",2,1,3,4,5,No,other,2.0,No,1.0,4.0,Somewhat likely,Yes
+149,42.96850586,-78.74919891,19-25,Male,North America/Central America,Bachelor's degree,Single,No,Calories,1,2,3,4,5,No,other,1.0,No,1.0,5.0,Neither likely nor unlikely,Maybe
+150,37.38340759,-5.978897095,26-35,Female,Europe,Bachelor's degree,Married,Sometimes,Other,2,3,1,4,5,Yes,TV,2.0,No,,,Somewhat likely,Yes
+151,40.76429749,-74.14800262,19-25,Male,North America/Central America,Bachelor's degree,Married,Sometimes,"Calories,Manufacturing place,Ingredients",4,5,3,2,1,Yes,Social media,3.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+152,40.751296999999994,-73.82440186,26-35,Male,North America/Central America,Master's degree,Single,Sometimes,Expiration date,3,1,2,4,5,Yes,Social media,4.0,No,2.0,,Somewhat likely,Yes
+153,39.04620361,-77.11949921,26-35,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage",3,1,2,5,4,Yes,Social media,4.0,No,3.0,5.0,Neither likely nor unlikely,Yes
+154,40.67630005,-73.94920349,Prefer not to say,Male,North America/Central America,Bachelor's degree,Prefer not to say,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Other",1,3,2,4,5,Yes,Social media,3.0,No,3.0,3.0,Neither likely nor unlikely,Maybe
+155,39.92880249,116.3888855,26-35,Male,Asia,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients",3,1,2,5,4,Yes,Social media,2.0,No,1.0,4.0,Somewhat likely,No
+156,40.67630005,-73.94920349,Prefer not to say,Prefer not to say,Other,PH.D. or higher,Prefer not to say,No,"Manufacturing place,Vitamins and mineral nutrients",1,2,3,4,5,Yes,Advertisement,4.0,No,5.0,5.0,Somewhat unlikely,Maybe
+157,23.69999695,109.26669309999998,26-35,Male,Asia,Bachelor's degree,Married,Yes,"Calories,Sugar percentage",1,2,4,3,5,Yes,Social media,3.0,Yes,4.0,5.0,,No Say
+158,38.87319946,-77.11509705,19-25,Female,North America/Central America,Bachelor's degree,Prefer not to say,Yes,Calories,2,1,5,3,4,No,other,4.0,No,4.0,4.0,Neither likely nor unlikely,Maybe
+159,38.84759521,-77.32810211,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date,Ingredients",3,1,2,5,4,No,other,2.0,No,1.0,4.0,Neither likely nor unlikely,Maybe
+160,38.84519958,-77.46510315,36-45,Female,North America/Central America,Bachelor's degree,Prefer not to say,Sometimes,"Calories,Sugar percentage,Expiration date",3,1,2,4,5,No,other,1.0,No,,,,No Say
+161,39.10899353,-77.24890137,26-35,Female,North America/Central America,Master's degree,Single,Sometimes,"Calories,Sugar percentage",3,1,2,4,5,Yes,Social media,3.0,No,2.0,4.0,Neither likely nor unlikely,Yes
+162,33.35749817,120.15728759999999,19-25,Male,Asia,Bachelor's degree,Single,No,Expiration date,1,2,3,5,4,Yes,Family and friends,2.0,No,2.0,2.0,Somewhat unlikely,No
+163,38.85969543,-77.19799805,26-35,Female,North America/Central America,Master's degree,Prefer not to say,Sometimes,Calories,2,1,3,4,5,Yes,Social media,3.0,No,1.0,5.0,Somewhat likely,Maybe
+164,43.04460144,-78.78289795,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",2,4,3,5,1,Yes,Social media,3.0,Yes,2.0,3.0,,No Say
+165,38.8578949,-77.06020355,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,Calories,1,2,3,4,5,No,other,2.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+166,39.41009521,-76.59970093,19-25,Female,North America/Central America,Master's degree,Single,Sometimes,"Calories,Sugar percentage,Other",1,2,3,4,5,Yes,Social media,2.0,Yes,2.0,5.0,,No Say
+167,38.90089417,-77.04640198,19-25,Female,Asia,Bachelor's degree,Prefer not to say,Yes,"Calories,Sugar percentage,Expiration date",2,1,3,5,4,No,other,1.0,No,1.0,4.0,Neither likely nor unlikely,Maybe
+168,40.61790466,-73.98560333,19-25,Male,South America,Bachelor's degree,Prefer not to say,No,"Sugar percentage,Expiration date",2,1,3,4,5,Yes,School,3.0,Yes,1.0,5.0,,No Say
+169,40.63749695,-74.02159882,19-25,Female,North America/Central America,Bachelor's degree,Single,No,"Calories,Expiration date,Ingredients",3,1,2,5,4,No,other,2.0,No,3.0,4.0,Extremely likely,No
+170,38.99650574,-76.93399811,19-25,Female,Other,Bachelor's degree,Married,No,"Expiration date,Other",1,5,2,3,4,No,other,4.0,No,4.0,3.0,Somewhat unlikely,No
+171,41.21949768,-73.37149811,26-35,Female,North America/Central America,Bachelor's degree,Single,Sometimes,Calories,4,5,3,1,2,Yes,Social media,5.0,Yes,1.0,5.0,,No Say
+172,42.97669983,-78.79589844,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,4,5,Yes,Social media,2.0,No,2.0,4.0,Somewhat unlikely,Maybe
+173,42.96949768,-77.57810211,19-25,Male,North America/Central America,High school,Prefer not to say,Sometimes,"Manufacturing place,Expiration date,Ingredients",4,5,3,1,2,Yes,Social media,2.0,No,1.0,5.0,Neither likely nor unlikely,Maybe
+174,23.11669922,113.25,36-45,Male,Asia,Master's degree,Single,No,"Calories,Manufacturing place",4,3,1,2,5,Yes,Family and friends,2.0,Yes,3.0,2.0,,No Say
+175,40.66430664,-73.9763031,19-25,Female,North America/Central America,High school,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,5,4,Yes,Social media,3.0,No,1.0,5.0,Somewhat likely,Maybe
+176,32.06170654,118.7778015,26-35,Male,Other,Bachelor's degree,Single,Sometimes,Sugar percentage,1,2,3,4,5,Yes,Radio,3.0,Yes,5.0,5.0,,No Say
+177,39.95970154,-75.19950104,19-25,Female,North America/Central America,Master's degree,Single,Sometimes,"Calories,Sugar percentage,Expiration date,Ingredients",3,1,2,5,4,No,other,2.0,No,1.0,3.0,Neither likely nor unlikely,Yes
+178,24.91389465,118.58578490000002,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Manufacturing place,Sugar percentage,Expiration date,Ingredients",5,4,3,1,2,Yes,Social media,2.0,No,1.0,4.0,,Yes
+179,40.61790466,-73.98560333,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,"Vitamins and mineral nutrients,Expiration date,Ingredients",1,2,3,4,5,Yes,Social media,3.0,No,1.0,5.0,Somewhat likely,Yes
+180,40.73800659,-73.9858017,26-35,Male,North America/Central America,High school,Single,Sometimes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",4,5,3,1,2,Yes,Social media,3.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+181,40.75230408,-74.21720123,19-25,Female,South America,High school,Prefer not to say,Sometimes,"Calories,Sugar percentage,Expiration date",3,1,2,5,4,No,other,1.0,No,1.0,5.0,Somewhat likely,Maybe
+182,30.29400635,120.16189579999998,19-25,Male,North America/Central America,Middle school,Single,Yes,Calories,1,5,2,3,4,Yes,Family and friends,1.0,Yes,1.0,1.0,,No Say
+183,41.89860535,-87.73799896,19-25,Male,Asia,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date,Ingredients",1,3,2,5,4,Yes,TV,3.0,No,1.0,3.0,Somewhat likely,Yes
+184,40.61790466,-73.98560333,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Ingredients,Other",2,1,3,4,5,Yes,Social media,2.0,No,1.0,5.0,Somewhat likely,Maybe
+185,40.78860474,-74.16339874,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,Ingredients,3,1,2,5,4,Yes,Social media,2.0,No,1.0,5.0,Somewhat likely,Maybe
+186,40.76829529,-73.98020172,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Expiration date,Ingredients",3,4,5,1,2,No,other,3.0,No,1.0,5.0,Extremely unlikely,Yes
+187,40.81230164,-73.96820068,19-25,Male,North America/Central America,Master's degree,Single,Sometimes,Calories,5,4,3,1,2,Yes,Social media,2.0,Yes,2.0,3.0,,No Say
+188,23.0308075,113.7174072,19-25,Female,Asia,High school,Single,Yes,Sugar percentage,2,1,4,3,5,No,other,3.0,No,3.0,3.0,Somewhat likely,Maybe
+189,36.06599426,120.3693848,19-25,Female,Europe,Master's degree,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients,Other",2,1,4,5,3,Yes,TV,3.0,No,3.0,3.0,Neither likely nor unlikely,No
+190,40.59480286,-73.97149658,19-25,Female,North America/Central America,High school,Prefer not to say,Sometimes,Expiration date,2,1,3,4,5,Yes,Social media,3.0,No,3.0,2.0,Neither likely nor unlikely,Maybe
+191,40.64460754,-73.97429657,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,Expiration date,2,1,3,4,5,Yes,Family and friends,3.0,No,3.0,4.0,Neither likely nor unlikely,Yes
+192,34.68359375,113.53250120000001,26-35,Male,Asia,High school,Prefer not to say,Yes,Other,1,2,3,4,5,Yes,TV,2.0,Yes,2.0,3.0,,No Say
+193,40.66430664,-73.9763031,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Manufacturing place,Expiration date,Ingredients",2,1,3,5,4,Yes,Social media,2.0,No,3.0,4.0,Somewhat likely,Yes
+194,39.92880249,116.3888855,19-25,Female,North America/Central America,Bachelor's degree,Married,Sometimes,"Calories,Sugar percentage,Expiration date",2,1,3,5,4,Yes,Family and friends,2.0,No,1.0,4.0,Somewhat likely,Maybe
+195,40.59779358,-74.00009918,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,Expiration date,5,4,3,2,1,Yes,Social media,2.0,No,2.0,4.0,Somewhat likely,Yes
+196,40.74839783,-73.86199951,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Expiration date,Ingredients",4,5,3,2,1,No,other,1.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+197,40.61790466,-73.98560333,18 or under,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,4,5,Yes,Family and friends,3.0,Yes,3.0,4.0,,No Say
+198,40.59779358,-74.00009918,19-25,Female,North America/Central America,Bachelor's degree,Married,Sometimes,"Manufacturing place,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,5,4,No,other,5.0,No,1.0,5.0,Somewhat likely,Maybe
+199,40.64460754,-73.97429657,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,4,3,5,Yes,Social media,3.0,No,2.0,5.0,Neither likely nor unlikely,No
+200,39.07279968,114.87310790000001,19-25,Female,Asia,Bachelor's degree,Prefer not to say,Yes,"Calories,Vitamins and mineral nutrients,Expiration date,Ingredients,Other",3,1,2,4,5,Yes,TV,3.0,Yes,3.0,5.0,,No Say
+201,40.72419739,-74.1977005,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date,Ingredients",1,2,3,4,5,Yes,Social media,2.0,Yes,2.0,3.0,,No Say
+202,40.751296999999994,-73.82440186,26-35,Male,North America/Central America,Bachelor's degree,Single,Sometimes,Expiration date,2,1,3,4,5,Yes,Advertisement,2.0,No,1.0,4.0,Neither likely nor unlikely,Maybe
+203,40.72790527,-73.99659729,19-25,Female,North America/Central America,Bachelor's degree,Prefer not to say,Sometimes,Other,1,4,3,5,2,Yes,Family and friends,3.0,Yes,3.0,3.0,,No Say
+204,40.74839783,-73.86199951,19-25,Female,North America/Central America,Bachelor's degree,Single,No,Sugar percentage,1,2,5,3,4,No,other,3.0,No,3.0,3.0,Neither likely nor unlikely,Yes
+205,40.61790466,-73.98560333,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,Sugar percentage,1,2,3,5,4,Yes,Family and friends,5.0,Yes,5.0,3.0,,No Say
+206,40.62080383,-74.04260254,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Other",2,1,3,4,5,Yes,Social media,2.0,No,1.0,4.0,Neither likely nor unlikely,Maybe
+207,39.07279968,114.87310790000001,26-35,Male,Asia,Bachelor's degree,Married,Yes,Ingredients,1,2,3,4,5,Yes,Family and friends,2.0,No,2.0,4.0,Extremely likely,Yes
+208,40.59779358,-74.00009918,19-25,Female,Asia,High school,Single,Sometimes,"Calories,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,No,other,1.0,No,1.0,4.0,Neither likely nor unlikely,Maybe
+209,40.62080383,-74.04260254,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,5,4,Yes,Social media,3.0,No,1.0,3.0,Somewhat likely,Maybe
+210,40.63749695,-74.02159882,46 and above,Prefer not to say,Africa,PH.D. or higher,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients,Other",1,2,4,3,5,Yes,Social media,1.0,No,1.0,1.0,Neither likely nor unlikely,Yes
+211,42.20039368,-71.68679809999999,26-35,Male,North America/Central America,High school,Prefer not to say,Sometimes,Other,2,1,3,4,5,Yes,Work,2.0,No,2.0,4.0,Somewhat likely,Maybe
+212,40.73100281,-73.67420197,19-25,Female,North America/Central America,Bachelor's degree,Prefer not to say,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,4,5,Yes,School,2.0,No,2.0,5.0,Somewhat likely,Yes
+213,42.2440033,-83.58229828,26-35,Male,Asia,High school,Single,No,"Manufacturing place,Sugar percentage,Expiration date,Ingredients",2,1,3,5,4,Yes,Work,5.0,Yes,4.0,5.0,,No Say
+214,40.59779358,-74.00009918,19-25,Female,North America/Central America,Bachelor's degree,Single,No,Expiration date,2,3,1,4,5,Yes,School,2.0,No,2.0,4.0,Somewhat unlikely,No
+215,40.72419739,-74.1977005,19-25,Male,North America/Central America,High school,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Ingredients",2,1,3,5,4,No,other,2.0,Yes,1.0,3.0,,No Say
+216,39.95869446,-82.998703,19-25,Male,North America/Central America,High school,Single,No,"Calories,Sugar percentage,Expiration date",1,3,2,4,5,Yes,Social media,2.0,No,1.0,5.0,Somewhat likely,Maybe
+217,40.76809692,-73.82910156,19-25,Male,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Ingredients",2,1,3,5,4,Yes,Advertisement,3.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+218,40.56970215,-74.11840057,19-25,Female,North America/Central America,High school,Prefer not to say,Sometimes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,4,5,Yes,School,2.0,Yes,3.0,5.0,,No Say
+219,39.99989319,-74.22280121,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date,Ingredients,Other",2,1,3,5,4,Yes,Social media,2.0,No,1.0,5.0,Somewhat likely,Maybe
+220,40.76809692,-73.82910156,18 or under,Female,North America/Central America,High school,Prefer not to say,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,5,4,Yes,Social media,2.0,No,2.0,4.0,Somewhat likely,Maybe
+221,40.63749695,-74.02159882,18 or under,Female,North America/Central America,Bachelor's degree,Single,Sometimes,Sugar percentage,1,3,4,5,2,No,other,,Yes,,5.0,,No Say
+222,40.56970215,-74.11840057,19-25,Female,North America/Central America,Bachelor's degree,Married,Sometimes,"Calories,Sugar percentage,Expiration date,Ingredients",2,1,3,4,5,No,other,4.0,Yes,2.0,5.0,,No Say
+223,40.72599792,-73.84799957,19-25,Female,North America/Central America,High school,Single,Yes,"Calories,Sugar percentage",1,2,3,4,5,Yes,Social media,2.0,No,1.0,5.0,Somewhat unlikely,Maybe
+224,30.29400635,120.16189579999998,46 and above,Prefer not to say,Asia,Middle school,Single,Sometimes,Other,1,2,4,3,5,Yes,School,5.0,Yes,5.0,5.0,,No Say
+225,26.38389587,-80.17489624,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients,Other",4,5,3,1,2,Yes,School,3.0,No,1.0,2.0,Somewhat likely,Yes
+226,36.79690552,-76.17970276,26-35,Female,North America/Central America,High school,Married,No,Expiration date,3,1,2,4,5,Yes,Advertisement,3.0,No,3.0,5.0,Neither likely nor unlikely,Yes
+227,40.66430664,-73.9763031,18 or under,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,4,5,Yes,Social media,3.0,Yes,2.0,4.0,,No Say
+228,40.82749939,-73.12249756,19-25,Female,North America/Central America,Bachelor's degree,Married,No,"Calories,Sugar percentage,Ingredients",3,1,2,5,4,Yes,Advertisement,1.0,No,1.0,5.0,Neither likely nor unlikely,No
+229,40.62080383,-74.04260254,26-35,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Expiration date",2,3,4,1,5,No,other,1.0,No,1.0,5.0,Somewhat likely,Maybe
+230,40.67129517,-73.89430237,19-25,Female,North America/Central America,Bachelor's degree,Single,No,Calories,2,1,4,3,5,No,other,5.0,No,2.0,5.0,Somewhat likely,No
+231,40.66270447,-73.9138031,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Sugar percentage,Vitamins and mineral nutrients,Expiration date",5,1,2,3,4,Yes,Social media,2.0,No,,1.0,Somewhat unlikely,Yes
+232,37.55169678,-122.33000179999999,19-25,Male,Asia,Bachelor's degree,Single,Sometimes,Expiration date,2,1,4,5,3,Yes,Family and friends,3.0,Yes,3.0,3.0,,No Say
+233,42.37249756,-71.18139648,26-35,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,Yes,Family and friends,2.0,No,2.0,5.0,Somewhat likely,Yes
+234,43.11399841,-77.56890106,26-35,Male,Asia,Master's degree,Single,No,Manufacturing place,2,1,3,4,5,Yes,Advertisement,3.0,Yes,3.0,4.0,,No Say
+235,40.66430664,-73.9763031,18 or under,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date",5,4,3,1,2,Yes,Family and friends,2.0,Yes,2.0,4.0,,No Say
+236,40.66430664,-73.9763031,19-25,Male,North America/Central America,Bachelor's degree,Single,No,Vitamins and mineral nutrients,3,1,4,2,5,No,other,3.0,No,1.0,5.0,Neither likely nor unlikely,Maybe
+237,47.68589783,-122.2994003,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,Vitamins and mineral nutrients,2,1,3,4,5,Yes,Advertisement,2.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+238,42.7684021,-78.88710022,19-25,Male,North America/Central America,Master's degree,Single,Yes,"Calories,Manufacturing place,Expiration date",2,1,3,4,5,Yes,Social media,3.0,Yes,2.0,5.0,,No Say
+239,40.76829529,-73.98020172,26-35,Male,North America/Central America,Master's degree,Married,No,Expiration date,2,1,3,5,4,Yes,Social media,4.0,No,1.0,4.0,Somewhat likely,Yes
+240,40.70089722,-73.94609833,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,Calories,3,1,2,5,4,Yes,Advertisement,3.0,Yes,3.0,5.0,,No Say
+241,40.66430664,-73.9763031,26-35,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date",2,1,3,4,5,Yes,School,3.0,Yes,2.0,4.0,,No Say
+242,40.61790466,-73.98560333,19-25,Male,North America/Central America,High school,Single,Sometimes,Vitamins and mineral nutrients,1,3,2,4,5,No,other,3.0,No,3.0,5.0,Extremely likely,Maybe
+243,41.82330322,-71.44100189,26-35,Male,South America,Bachelor's degree,Married,No,Manufacturing place,1,2,4,3,5,No,other,1.0,No,3.0,3.0,Neither likely nor unlikely,Maybe
+244,40.66430664,-73.9763031,26-35,Female,Other,Middle school,Married,Sometimes,Ingredients,1,3,4,5,2,No,other,1.0,Yes,1.0,4.0,,No Say
+245,40.66430664,-73.9763031,46 and above,Female,North America/Central America,High school,Married,Yes,Manufacturing place,1,2,3,4,5,No,other,2.0,No,1.0,1.0,Neither likely nor unlikely,No
+246,40.66430664,-73.9763031,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Sugar percentage,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,Yes,Family and friends,4.0,Yes,2.0,3.0,,No Say
+247,40.66430664,-73.9763031,19-25,Male,North America/Central America,Middle school,Single,Yes,Calories,2,3,1,4,5,Yes,Family and friends,3.0,Yes,4.0,4.0,,No Say
+248,40.81390381,-73.88410187,19-25,Male,North America/Central America,High school,Prefer not to say,Sometimes,Expiration date,1,2,3,4,5,No,other,2.0,No,3.0,3.0,Somewhat likely,Maybe
+249,23.0308075,113.7174072,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,Calories,2,1,4,5,3,No,other,5.0,No,4.0,4.0,Somewhat likely,Yes
+250,40.64460754,-73.97429657,19-25,Male,North America/Central America,Master's degree,Single,Yes,"Calories,Sugar percentage",3,1,2,4,5,Yes,Social media,3.0,No,1.0,5.0,Somewhat unlikely,No
+251,40.598007200000005,-73.94670105,19-25,Female,North America/Central America,Bachelor's degree,Married,Yes,"Calories,Sugar percentage,Expiration date,Ingredients",3,1,2,4,5,No,other,1.0,No,1.0,1.0,Neither likely nor unlikely,Maybe
+252,40.66270447,-73.9138031,26-35,Male,North America/Central America,Master's degree,Prefer not to say,Yes,"Calories,Sugar percentage,Expiration date",3,1,2,4,5,Yes,Advertisement,3.0,No,1.0,4.0,Neither likely nor unlikely,Yes
+253,40.66430664,-73.9763031,26-35,Female,North America/Central America,High school,Single,Sometimes,Other,3,1,2,5,4,No,other,1.0,No,1.0,3.0,Neither likely nor unlikely,Maybe
+254,40.78860474,-74.16339874,19-25,Male,North America/Central America,Bachelor's degree,Prefer not to say,No,"Calories,Sugar percentage,Expiration date",2,1,3,5,4,No,other,2.0,No,1.0,5.0,Somewhat unlikely,Maybe
+255,42.7684021,-78.88710022,19-25,Male,North America/Central America,Bachelor's degree,Single,No,"Vitamins and mineral nutrients,Expiration date,Ingredients",4,5,1,2,3,Yes,Social media,2.0,Yes,2.0,4.0,,No Say
+256,49.22009277,-122.89979550000001,26-35,Male,North America/Central America,Master's degree,Married,Yes,Expiration date,3,1,4,5,2,No,other,3.0,No,1.0,4.0,Somewhat likely,Yes
+257,40.61790466,-73.98560333,18 or under,Female,North America/Central America,High school,Single,No,"Calories,Sugar percentage,Vitamins and mineral nutrients",2,1,3,4,5,Yes,School,2.0,No,2.0,2.0,Somewhat unlikely,No
+258,26.06140137,119.30609129999999,26-35,Male,Asia,Master's degree,Single,Yes,"Calories,Sugar percentage,Expiration date,Other",5,4,3,1,2,Yes,Social media,2.0,No,1.0,4.0,Neither likely nor unlikely,Yes
+259,40.67630005,-73.94920349,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",1,2,3,4,5,Yes,Family and friends,5.0,Yes,3.0,3.0,,No Say
+260,40.83120728,-73.90670013,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Vitamins and mineral nutrients,Expiration date",4,5,3,2,1,Yes,Advertisement,3.0,No,1.0,4.0,Neither likely nor unlikely,Maybe
+261,40.56970215,-74.11840057,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date,Ingredients",4,5,3,1,2,Yes,Social media,3.0,No,2.0,5.0,Somewhat likely,Maybe
+262,26.06140137,119.30609129999999,26-35,Female,Asia,Bachelor's degree,Single,Sometimes,"Sugar percentage,Vitamins and mineral nutrients",2,1,3,4,5,Yes,Social media,1.0,No,1.0,4.0,Neither likely nor unlikely,Maybe
+263,24.47979736,118.0819092,19-25,Female,Asia,Master's degree,Single,Sometimes,"Calories,Sugar percentage,Expiration date,Other",1,2,3,4,5,Yes,TV,3.0,Yes,3.0,4.0,,No Say
+264,43.04460144,-78.78289795,19-25,Male,Asia,Bachelor's degree,Prefer not to say,Yes,Calories,3,1,2,4,5,Yes,Social media,2.0,No,1.0,4.0,Neither likely nor unlikely,Yes
+265,40.66430664,-73.9763031,19-25,Female,Other,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date",2,1,3,5,4,Yes,School,2.0,Yes,2.0,5.0,,No Say
+266,40.7098999,-73.95909882,26-35,Male,North America/Central America,Bachelor's degree,Single,Yes,"Sugar percentage,Ingredients",4,3,5,1,2,Yes,TV,2.0,Yes,1.0,4.0,,No Say
+267,40.7098999,-73.95909882,19-25,Male,North America/Central America,Master's degree,Single,Yes,Calories,2,1,3,4,5,No,other,4.0,Yes,4.0,4.0,,No Say
+268,32.06170654,118.7778015,18 or under,Male,North America/Central America,Middle school,Single,Yes,Calories,3,2,1,4,5,Yes,Family and friends,5.0,Yes,5.0,5.0,,No Say
+269,42.96850586,-78.74919891,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,"Manufacturing place,Sugar percentage,Vitamins and mineral nutrients",5,4,3,1,2,No,other,,No,1.0,5.0,Neither likely nor unlikely,Maybe
+270,40.74180603,-74.22360229,19-25,Female,North America/Central America,Bachelor's degree,Single,No,Sugar percentage,1,2,3,5,4,No,other,2.0,No,1.0,5.0,Somewhat unlikely,Maybe
+271,34.25979614,108.92941280000001,19-25,Female,Africa,Master's degree,Single,Sometimes,Vitamins and mineral nutrients,2,1,5,3,4,Yes,School,3.0,Yes,3.0,3.0,,No Say
+272,40.70350647,-73.92350006,26-35,Male,North America/Central America,Master's degree,Married,Sometimes,"Calories,Sugar percentage",1,2,3,4,5,No,other,1.0,No,1.0,4.0,Somewhat likely,Maybe
+273,40.83120728,-73.90670013,19-25,Female,North America/Central America,High school,Single,Sometimes,Expiration date,1,2,3,4,5,No,other,2.0,No,3.0,3.0,Neither likely nor unlikely,Maybe
+274,40.8170929,-73.93920135,26-35,Male,South America,High school,Single,Yes,Other,1,2,4,3,5,Yes,Family and friends,3.0,Yes,3.0,3.0,,No Say
+275,-37.80709839,144.95159909999998,26-35,Male,Other,Master's degree,Single,Yes,"Expiration date,Ingredients",2,1,3,4,5,No,other,1.0,No,1.0,5.0,Somewhat unlikely,Yes
+276,40.72419739,-74.1977005,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Expiration date,Ingredients,Other",2,1,3,4,5,Yes,Family and friends,3.0,No,2.0,5.0,Somewhat likely,Yes
+277,37.34170532,-121.975296,26-35,Male,North America/Central America,Master's degree,Married,Yes,"Calories,Sugar percentage,Expiration date,Other",2,1,3,4,5,No,other,1.0,No,1.0,5.0,Neither likely nor unlikely,No
+278,25.28190613,110.2864075,19-25,Female,Asia,Master's degree,Single,Sometimes,"Calories,Sugar percentage,Expiration date",2,1,3,4,5,Yes,Social media,2.0,No,1.0,4.0,Neither likely nor unlikely,Maybe
+279,39.95869446,-82.998703,26-35,Male,North America/Central America,Bachelor's degree,Single,Yes,Calories,1,2,3,4,5,Yes,Social media,4.0,Yes,4.0,4.0,,No Say
+280,40.64460754,-73.97429657,19-25,Prefer not to say,North America/Central America,Bachelor's degree,Single,No,Expiration date,1,2,3,4,5,No,other,3.0,No,1.0,2.0,Neither likely nor unlikely,Maybe
+281,30.29400635,120.16189579999998,19-25,Male,Asia,High school,Married,Yes,Expiration date,4,1,5,2,3,Yes,Advertisement,3.0,Yes,1.0,1.0,,No Say
+282,51.54679871,-0.009597778000000001,19-25,Male,Europe,Master's degree,Single,Yes,Expiration date,4,5,3,1,2,Yes,Social media,4.0,No,1.0,4.0,Extremely unlikely,No
+283,40.75840759,-73.79730225,46 and above,Female,South America,Middle school,Prefer not to say,No,"Sugar percentage,Vitamins and mineral nutrients",2,1,3,4,5,No,other,5.0,Yes,1.0,5.0,,No Say
+284,40.75840759,-73.79730225,26-35,Female,Europe,High school,Single,No,Vitamins and mineral nutrients,2,3,5,4,1,Yes,Advertisement,5.0,Yes,5.0,5.0,,No Say
+285,40.75840759,-73.79730225,46 and above,Male,North America/Central America,Bachelor's degree,Married,Yes,Other,2,3,4,1,5,No,other,5.0,No,3.0,2.0,Extremely likely,No
+286,30.66670227,104.0667114,19-25,Male,Asia,Bachelor's degree,Single,Sometimes,Expiration date,2,1,3,4,5,Yes,Social media,3.0,No,1.0,5.0,Extremely unlikely,No
+287,40.72419739,-74.1977005,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,Expiration date,4,5,3,2,1,Yes,Family and friends,2.0,Yes,2.0,5.0,,No Say
+288,23.11669922,113.25,46 and above,Male,Asia,Bachelor's degree,Prefer not to say,Yes,"Manufacturing place,Sugar percentage,Expiration date,Ingredients",1,2,3,4,5,Yes,Social media,4.0,No,1.0,5.0,Extremely likely,Yes
+289,40.88000488,-74.10310364,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Expiration date",2,1,3,4,5,No,other,3.0,Yes,3.0,4.0,,No Say
+290,40.59559631,-74.08059692,26-35,Female,North America/Central America,High school,Prefer not to say,Sometimes,"Vitamins and mineral nutrients,Expiration date",1,4,3,5,2,No,other,1.0,No,1.0,3.0,Extremely unlikely,Maybe
+291,40.67129517,-73.89430237,19-25,Male,North America/Central America,Bachelor's degree,Married,Yes,Sugar percentage,3,1,4,2,5,Yes,School,5.0,Yes,5.0,5.0,,No Say
+292,42.96850586,-78.74919891,19-25,Female,North America/Central America,Bachelor's degree,Prefer not to say,No,Calories,2,1,3,5,4,No,other,1.0,No,1.0,1.0,Extremely unlikely,Maybe
+293,40.61790466,-73.98560333,19-25,Male,North America/Central America,High school,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,4,5,Yes,Social media,2.0,No,1.0,5.0,Somewhat unlikely,Maybe
+294,40.66430664,-73.9763031,19-25,Male,South America,Bachelor's degree,Single,Yes,"Calories,Vitamins and mineral nutrients,Expiration date",1,2,3,5,4,No,other,3.0,Yes,3.0,4.0,,No Say
+295,40.63749695,-74.02159882,19-25,Female,North America/Central America,Bachelor's degree,Prefer not to say,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",4,5,1,2,3,Yes,Social media,3.0,No,2.0,2.0,Neither likely nor unlikely,Maybe
+296,40.72970581,-73.81629944,19-25,Male,North America/Central America,Bachelor's degree,Prefer not to say,Sometimes,Calories,2,1,3,4,5,Yes,Social media,3.0,Yes,3.0,3.0,,No Say
+297,40.67390442,-73.93579865,26-35,Female,North America/Central America,High school,Married,Sometimes,Vitamins and mineral nutrients,4,2,3,1,5,Yes,Work,2.0,Yes,2.0,1.0,,No Say
+298,42.7684021,-78.88710022,19-25,Male,North America/Central America,High school,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",1,2,3,4,5,Yes,Social media,1.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+299,40.72970581,-73.81629944,19-25,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date",2,1,3,4,5,Yes,Social media,2.0,Yes,2.0,4.0,,No Say
+300,40.66270447,-73.9138031,26-35,Female,North America/Central America,Bachelor's degree,Single,No,"Manufacturing place,Expiration date,Ingredients",2,1,3,5,4,Yes,Social media,3.0,No,1.0,5.0,Somewhat likely,Maybe
+301,40.12919617,124.39471440000001,19-25,Female,Asia,Master's degree,Single,Sometimes,Calories,1,2,3,4,5,Yes,Social media,2.0,Yes,2.0,5.0,,No Say
+302,39.92880249,116.3888855,26-35,Male,Asia,Bachelor's degree,Prefer not to say,Yes,"Manufacturing place,Sugar percentage,Expiration date,Ingredients,Other",3,1,2,5,4,Yes,Social media,2.0,No,1.0,5.0,Neither likely nor unlikely,Maybe
+303,40.61860657,-73.92720032,26-35,Female,North America/Central America,Bachelor's degree,Married,No,Vitamins and mineral nutrients,3,1,2,5,4,No,other,1.0,No,1.0,5.0,Somewhat likely,Yes
+304,40.66270447,-73.9138031,19-25,Female,North America/Central America,Bachelor's degree,Single,No,Expiration date,2,1,3,4,5,Yes,Social media,3.0,No,1.0,5.0,Somewhat likely,Maybe
+305,40.61790466,-73.98560333,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Expiration date",2,1,3,5,4,Yes,TV,3.0,No,2.0,3.0,Somewhat likely,No
+306,40.66270447,-73.9138031,36-45,Female,North America/Central America,Middle school,Married,No,Expiration date,2,1,3,5,4,Yes,Social media,3.0,No,1.0,2.0,Neither likely nor unlikely,Maybe
+307,40.62080383,-74.04260254,26-35,Male,North America/Central America,Bachelor's degree,Single,Yes,Vitamins and mineral nutrients,3,1,2,4,5,No,other,1.0,No,1.0,1.0,Extremely unlikely,Maybe
+308,40.61149597,-74.01560211,19-25,Prefer not to say,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Expiration date",3,1,2,4,5,No,other,1.0,No,1.0,4.0,Neither likely nor unlikely,Yes
+309,43.04460144,-78.78289795,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Vitamins and mineral nutrients,Expiration date",1,2,3,4,5,Yes,Social media,2.0,No,1.0,4.0,Extremely likely,Yes
+311,34.37559509,-80.084198,19-25,Female,North America/Central America,High school,Married,No,Expiration date,1,3,4,5,2,No,other,1.0,No,1.0,3.0,Somewhat likely,Maybe
+312,38.46809387,106.27310179999999,19-25,Male,Asia,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage",2,5,3,4,1,Yes,Radio,3.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+313,40.58279419,-73.95320129,19-25,Male,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date",1,2,3,5,4,Yes,Social media,2.0,No,1.0,5.0,Somewhat unlikely,Maybe
+314,40.66430664,-73.9763031,26-35,Female,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Ingredients",3,1,2,4,5,Yes,Advertisement,2.0,No,1.0,3.0,Neither likely nor unlikely,Yes
+315,40.7098999,-73.95909882,19-25,Female,Asia,High school,Married,No,Other,1,2,3,5,4,No,other,1.0,No,1.0,2.0,Somewhat unlikely,Maybe
+316,40.7828064,-73.97450256,19-25,Female,North America/Central America,Master's degree,Single,No,"Calories,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,Yes,Family and friends,2.0,Yes,2.0,5.0,,No Say
+317,40.62080383,-74.04260254,19-25,Male,North America/Central America,Bachelor's degree,Prefer not to say,Yes,"Sugar percentage,Expiration date,Ingredients",3,1,2,4,5,No,other,2.0,No,1.0,4.0,Somewhat unlikely,No
+318,30.29400635,120.16189579999998,19-25,Male,Asia,Bachelor's degree,Married,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients",5,2,1,3,4,Yes,School,5.0,Yes,5.0,5.0,,No Say
+319,22.53329468,114.13330079999999,19-25,Female,Other,Bachelor's degree,Prefer not to say,Yes,Other,1,2,4,5,3,No,other,3.0,No,3.0,5.0,Neither likely nor unlikely,Maybe
+321,40.62080383,-74.04260254,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",3,1,2,4,5,Yes,Social media,2.0,No,2.0,5.0,Somewhat likely,Maybe
+322,26.06140137,119.30609129999999,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",3,1,2,4,5,No,other,3.0,No,3.0,4.0,Somewhat likely,Maybe
+323,26.06140137,119.30609129999999,26-35,Female,South America,High school,Married,Yes,Sugar percentage,1,2,3,4,5,Yes,Family and friends,2.0,No,1.0,3.0,Neither likely nor unlikely,Yes
+324,26.06140137,119.30609129999999,19-25,Female,Asia,Master's degree,Single,No,Sugar percentage,1,2,3,5,4,Yes,Family and friends,3.0,No,2.0,5.0,Neither likely nor unlikely,Maybe
+325,23.11669922,113.25,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Expiration date,Ingredients",4,5,3,2,1,Yes,Social media,3.0,Yes,3.0,5.0,,No Say
+326,40.61790466,-73.98560333,19-25,Male,North America/Central America,High school,Single,Yes,Calories,2,1,3,4,5,No,other,3.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+327,29.55690002,106.55310060000001,26-35,Male,Asia,Bachelor's degree,Married,Sometimes,Other,2,1,3,5,4,Yes,Family and friends,4.0,Yes,4.0,3.0,,No Say
+328,28.10830688,118.63470459999999,19-25,Female,Other,Bachelor's degree,Single,Sometimes,Calories,1,2,5,3,4,Yes,Family and friends,3.0,No,1.0,4.0,Somewhat unlikely,Maybe
+329,40.81390381,-73.88410187,19-25,Female,North America/Central America,Bachelor's degree,Married,Sometimes,"Calories,Sugar percentage,Expiration date,Ingredients",4,5,1,2,3,Yes,Social media,2.0,No,2.0,2.0,Neither likely nor unlikely,Maybe
+330,3.139694214,101.68521120000001,26-35,Female,Asia,PH.D. or higher,Single,Yes,"Calories,Sugar percentage,Expiration date,Ingredients",2,4,3,5,1,Yes,Family and friends,4.0,Yes,3.0,1.0,,No Say
+331,1.541900635,110.3818054,19-25,Female,Asia,Bachelor's degree,Single,No,Calories,5,3,4,1,2,Yes,Family and friends,4.0,Yes,3.0,2.0,,No Say
+332,1.541900635,110.3818054,19-25,Female,Asia,Bachelor's degree,Single,No,Expiration date,2,1,3,5,4,Yes,Social media,2.0,Yes,1.0,4.0,,No Say
+333,3.1511993410000003,101.71029659999999,19-25,Male,Asia,High school,Single,No,Calories,1,2,3,4,5,No,other,3.0,No,3.0,2.0,Neither likely nor unlikely,No
+334,5.31199646,100.4422913,19-25,Male,Asia,Bachelor's degree,Prefer not to say,Sometimes,Calories,2,5,3,1,4,Yes,Flyers,4.0,Yes,4.0,4.0,,No Say
+335,22.53329468,114.13330079999999,19-25,Male,Asia,Master's degree,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",3,1,2,5,4,Yes,Social media,2.0,No,1.0,4.0,Extremely likely,Yes
+336,40.80039978,-73.95040131,19-25,Male,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date",5,2,1,4,3,No,other,5.0,No,1.0,2.0,Extremely unlikely,Maybe
+337,3.118896484,101.6745911,19-25,Female,Asia,Bachelor's degree,Single,Yes,Manufacturing place,2,1,3,4,5,Yes,TV,4.0,Yes,4.0,2.0,,No Say
+338,43.604599,1.445098877,19-25,Female,Europe,Master's degree,Single,Sometimes,Calories,1,3,4,5,2,Yes,Social media,3.0,Yes,2.0,5.0,,No Say
+339,4.881698608,114.93591310000001,19-25,Female,Asia,High school,Prefer not to say,No,Calories,4,5,2,3,1,Yes,Family and friends,2.0,Yes,3.0,2.0,,No Say
+340,,,19-25,Male,Asia,Bachelor's degree,Single,Sometimes,"Calories,Expiration date,Ingredients",1,2,3,4,5,Yes,Work,3.0,No,,,,No Say
+341,40.62080383,-74.04260254,19-25,Female,North America/Central America,Master's degree,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",5,4,3,2,1,Yes,School,3.0,No,1.0,5.0,Somewhat unlikely,Maybe
+342,,,19-25,Male,Other,Bachelor's degree,Single,Sometimes,"Sugar percentage,Expiration date",1,2,3,4,5,Yes,Family and friends,1.0,Yes,,,,No Say
+343,40.75030518,-74.00140381,19-25,Male,North America/Central America,Bachelor's degree,Prefer not to say,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",1,2,3,4,5,Yes,Social media,3.0,No,1.0,5.0,Somewhat likely,Yes
+344,40.83120728,-73.90670013,26-35,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Manufacturing place,Expiration date,Ingredients,Other",2,1,3,5,4,Yes,Social media,2.0,No,1.0,5.0,Somewhat likely,No
+345,38.87680054,-104.81199649999999,26-35,Male,North America/Central America,High school,Single,Sometimes,Expiration date,2,1,3,4,5,Yes,Family and friends,3.0,Yes,3.0,4.0,,No Say
+346,,,19-25,Male,Asia,High school,Single,No,"Expiration date,Ingredients",1,2,3,5,4,Yes,Social media,2.0,Yes,,,,No Say
+347,26.06140137,119.30609129999999,19-25,Female,Asia,Bachelor's degree,Single,Yes,"Calories,Vitamins and mineral nutrients",1,3,2,4,5,Yes,Advertisement,3.0,Yes,2.0,3.0,,No Say
+348,1.541900635,110.3818054,19-25,Female,Asia,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage,Expiration date",2,4,3,1,5,Yes,Family and friends,2.0,Yes,1.0,3.0,,No Say
+349,22.81370544,108.3146057,26-35,Male,Africa,Bachelor's degree,Married,Yes,Manufacturing place,1,3,4,5,2,Yes,Advertisement,4.0,Yes,3.0,5.0,,No Say
+350,40.63749695,-74.02159882,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,Expiration date,1,2,3,4,5,Yes,School,2.0,Yes,2.0,4.0,,No Say
+351,40.67399597,-73.9701004,19-25,Female,North America/Central America,Bachelor's degree,Single,No,Ingredients,3,1,2,5,4,Yes,Social media,4.0,No,1.0,4.0,Somewhat unlikely,Maybe
+352,40.76370239,-73.76950073,26-35,Male,North America/Central America,Bachelor's degree,Married,Sometimes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",1,3,4,2,5,Yes,Social media,3.0,No,3.0,3.0,Somewhat unlikely,No
+353,40.71569824,-74.0,19-25,Male,North America/Central America,Middle school,Prefer not to say,Yes,Expiration date,2,1,3,5,4,Yes,Family and friends,1.0,No,1.0,1.0,Extremely unlikely,Maybe
+354,40.72419739,-74.1977005,18 or under,Male,North America/Central America,High school,Single,Sometimes,"Calories,Other",1,2,5,3,4,Yes,TV,3.0,Yes,3.0,3.0,,No Say
+355,33.83360291,-84.37969971,18 or under,Female,North America/Central America,High school,Single,Sometimes,Calories,2,1,4,3,5,Yes,Social media,2.0,Yes,1.0,3.0,,No Say
+357,40.63679504,-74.00050354,19-25,Prefer not to say,South America,High school,Single,Sometimes,"Calories,Vitamins and mineral nutrients,Expiration date",3,1,2,5,4,Yes,Social media,2.0,No,2.0,5.0,Somewhat unlikely,Yes
+358,40.82310486,-73.95130157,19-25,Female,Asia,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date",4,5,3,1,2,Yes,Social media,1.0,No,1.0,5.0,Somewhat likely,Yes
+359,40.82310486,-73.95130157,36-45,Male,Africa,Master's degree,Single,Sometimes,"Calories,Sugar percentage,Expiration date",2,1,3,4,5,No,other,1.0,No,1.0,3.0,Somewhat likely,Yes
+360,40.82310486,-73.95130157,19-25,Male,North America/Central America,High school,Single,Sometimes,"Sugar percentage,Expiration date",1,2,3,4,5,Yes,Social media,2.0,No,1.0,2.0,Somewhat likely,Maybe
+361,40.82310486,-73.95130157,26-35,Male,North America/Central America,Master's degree,Single,No,Expiration date,3,1,4,5,2,No,other,4.0,No,1.0,3.0,Somewhat unlikely,Yes
+362,40.72470093,-73.89569855,26-35,Male,North America/Central America,High school,Married,No,"Calories,Sugar percentage,Expiration date",1,2,3,4,5,No,other,,No,1.0,3.0,Somewhat likely,Yes
+363,40.82310486,-73.95130157,19-25,Male,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Expiration date",1,2,3,5,4,Yes,TV,3.0,No,1.0,5.0,Somewhat unlikely,Maybe
+364,40.82310486,-73.95130157,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Vitamins and mineral nutrients,Expiration date,Ingredients",3,5,4,2,1,Yes,Family and friends,2.0,No,1.0,4.0,Somewhat likely,Maybe
+365,40.74650574,-73.90899658,26-35,Male,North America/Central America,Bachelor's degree,Married,Sometimes,"Calories,Manufacturing place,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients,Other",2,1,4,3,5,Yes,other,3.0,No,1.0,1.0,Somewhat likely,Maybe
+366,39.95610046,-75.27189636,26-35,Male,North America/Central America,High school,Single,No,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",3,1,2,4,5,Yes,Family and friends,2.0,No,1.0,2.0,Somewhat unlikely,Yes
+367,34.000701899999996,-81.03479767,26-35,Male,Asia,PH.D. or higher,Single,Yes,Calories,3,4,2,1,5,No,other,3.0,No,1.0,3.0,Extremely unlikely,No
+368,40.67630005,-73.94920349,19-25,Female,North America/Central America,Master's degree,Single,Sometimes,"Calories,Sugar percentage",1,2,3,4,5,Yes,Advertisement,3.0,Yes,3.0,3.0,,No Say
+369,43.04460144,-78.78289795,19-25,Male,North America/Central America,Master's degree,Single,No,Calories,2,1,3,4,5,Yes,Social media,2.0,No,1.0,4.0,Somewhat likely,Maybe
+370,40.63679504,-74.00050354,19-25,Female,Asia,High school,Prefer not to say,Sometimes,"Calories,Sugar percentage",2,3,1,4,5,Yes,Social media,2.0,No,1.0,3.0,Extremely unlikely,Yes
+371,39.048095700000005,-77.47280121,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients,Other",3,1,2,4,5,Yes,Family and friends,5.0,Yes,3.0,4.0,,No Say
+372,42.7684021,-78.88710022,19-25,Male,North America/Central America,Master's degree,Single,No,"Expiration date,Ingredients",2,1,3,4,5,Yes,Social media,3.0,No,3.0,3.0,Somewhat likely,Yes
+373,30.29400635,120.16189579999998,19-25,Male,North America/Central America,Middle school,Single,Yes,Calories,1,5,2,4,3,No,other,5.0,Yes,4.0,3.0,,No Say
+374,,,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,Yes,Social media,5.0,Yes,,,,No Say
+375,42.7684021,-78.88710022,19-25,Male,Asia,Master's degree,Single,Yes,"Calories,Expiration date",1,2,3,4,5,Yes,Advertisement,2.0,No,2.0,5.0,Somewhat unlikely,Maybe
+376,40.75790405,-73.93319702,26-35,Male,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Other",3,1,2,4,5,No,other,1.0,No,1.0,4.0,Somewhat likely,Maybe
+377,43.04460144,-78.78289795,19-25,Male,Asia,Bachelor's degree,Single,No,Calories,5,4,3,1,2,Yes,Social media,2.0,No,1.0,5.0,Neither likely nor unlikely,Yes
+378,43.04289246,-78.69879913,19-25,Male,North America/Central America,High school,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Other",2,1,3,5,4,Yes,Social media,2.0,No,1.0,4.0,Somewhat likely,Yes
+380,38.70480347,-90.46170044,26-35,Male,North America/Central America,Bachelor's degree,Prefer not to say,Yes,Ingredients,3,1,2,4,5,No,other,4.0,Yes,3.0,4.0,,No Say
+381,26.06140137,119.30609129999999,18 or under,Female,Other,High school,Single,Yes,Other,2,1,5,4,3,Yes,Family and friends,3.0,No,3.0,3.0,Somewhat likely,Yes
+382,40.66270447,-73.9138031,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage",3,1,2,5,4,Yes,Social media,3.0,No,1.0,5.0,Neither likely nor unlikely,Maybe
+383,-27.46110535,153.0533142,19-25,Female,Other,Bachelor's degree,Prefer not to say,No,Other,2,1,3,5,4,Yes,Work,3.0,Yes,3.0,5.0,,No Say
+384,40.72520447,-73.94400024,26-35,Prefer not to say,North America/Central America,High school,Prefer not to say,Sometimes,"Calories,Expiration date,Ingredients,Other",2,1,3,4,5,Yes,Social media,3.0,Yes,2.0,4.0,,No Say
+385,40.76809692,-73.82910156,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Expiration date,Ingredients",3,5,4,1,2,Yes,Family and friends,2.0,No,1.0,5.0,Somewhat likely,Yes
+386,23.11669922,113.25,18 or under,Female,Other,Bachelor's degree,Single,Sometimes,Other,1,2,3,4,5,Yes,Social media,3.0,No,,,,No Say
+387,40.78860474,-74.16339874,19-25,Male,North America/Central America,High school,Prefer not to say,Sometimes,Other,2,1,3,5,4,No,other,2.0,No,1.0,3.0,Neither likely nor unlikely,Maybe
+388,39.47990417,-76.29550171,19-25,Male,North America/Central America,Middle school,Single,Sometimes,Expiration date,2,1,4,5,3,Yes,Work,2.0,Yes,1.0,4.0,,No Say
+389,40.751296999999994,-73.88300323,26-35,Female,North America/Central America,High school,Prefer not to say,No,Ingredients,2,1,3,4,5,No,other,1.0,No,1.0,4.0,Neither likely nor unlikely,No
+390,38.94889832,-76.93520355,19-25,Female,North America/Central America,Middle school,Single,Yes,Calories,3,4,1,5,2,Yes,Family and friends,5.0,Yes,5.0,5.0,,No Say
+391,42.41499329,-71.05269623,19-25,Female,North America/Central America,High school,Single,Sometimes,"Calories,Expiration date",1,2,3,4,5,Yes,School,3.0,Yes,2.0,3.0,,No Say
+392,33.76199341,-117.93249509999998,26-35,Male,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Other",2,1,3,5,4,Yes,Social media,2.0,Yes,2.0,3.0,,No Say
+393,42.97669983,-78.79589844,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,Sugar percentage,2,1,3,5,4,Yes,Social media,1.0,No,1.0,1.0,Neither likely nor unlikely,Yes
+394,3.118896484,101.6745911,19-25,Female,Asia,High school,Single,Sometimes,"Expiration date,Ingredients",5,1,4,2,3,Yes,Family and friends,5.0,Yes,3.0,1.0,,No Say
+395,3.118896484,101.6745911,19-25,Female,Other,High school,Single,Yes,"Expiration date,Ingredients",2,1,3,4,5,No,other,3.0,Yes,2.0,3.0,,No Say
+396,40.751296999999994,-73.82440186,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Expiration date,Ingredients",4,5,3,1,2,Yes,School,3.0,No,1.0,5.0,Somewhat likely,Maybe
+397,40.72520447,-73.94400024,36-45,Male,North America/Central America,Bachelor's degree,Single,Yes,"Calories,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,Yes,TV,2.0,No,1.0,3.0,Somewhat unlikely,Yes
+398,24.56430054,120.8237,19-25,Female,Asia,Bachelor's degree,Single,Yes,"Calories,Manufacturing place,Sugar percentage,Expiration date,Ingredients",2,1,3,4,5,Yes,Social media,2.0,No,2.0,2.0,Extremely likely,Yes
+399,,,19-25,Male,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage",1,2,3,4,5,Yes,Work,5.0,Yes,,,,No Say
+400,,,19-25,Male,North America/Central America,Bachelor's degree,Single,No,"Calories,Sugar percentage,Expiration date",2,1,3,4,5,No,other,1.0,No,,,,No Say
+401,,,36-45,Female,Asia,Middle school,Prefer not to say,Sometimes,Other,1,3,4,2,5,No,other,5.0,No,,,,No Say
+402,,,26-35,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date",2,1,3,4,5,No,other,1.0,Yes,,,,No Say
+403,,,36-45,Female,North America/Central America,Middle school,Married,Sometimes,Calories,1,3,5,2,4,Yes,Work,3.0,Yes,,,,No Say
+405,,,18 or under,Female,Europe,Bachelor's degree,Single,No,Other,1,3,4,2,5,No,other,3.0,No,,,,No Say
+406,,,18 or under,Male,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Ingredients",2,1,3,4,5,Yes,TV,2.0,No,,,,No Say
+409,,,19-25,Female,North America/Central America,Bachelor's degree,Single,Sometimes,"Calories,Sugar percentage",2,3,1,4,5,No,other,1.0,No,,,,No Say
+410,,,19-25,Female,North America/Central America,High school,Single,No,"Expiration date,Other",3,1,4,5,2,No,other,1.0,No,,,,No Say
+413,,,19-25,Female,North America/Central America,High school,Single,No,Calories,2,1,3,4,5,No,other,2.0,Yes,,,,No Say
+415,,,18 or under,Female,North America/Central America,High school,Single,Sometimes,"Calories,Sugar percentage,Expiration date",2,1,4,3,5,No,other,2.0,No,,,,No Say
+416,,,19-25,Prefer not to say,South America,High school,Single,Sometimes,Other,3,1,2,4,5,No,other,2.0,No,,,,No Say
+417,,,19-25,Male,North America/Central America,High school,Single,Sometimes,Calories,1,2,3,4,5,No,other,3.0,Yes,,,,No Say
+419,,,26-35,Female,Asia,Bachelor's degree,Single,Yes,"Calories,Sugar percentage,Vitamins and mineral nutrients,Expiration date,Other",2,1,3,4,5,Yes,Social media,2.0,No,,,,No Say
+421,,,19-25,Male,North America/Central America,Master's degree,Single,Yes,"Calories,Sugar percentage,Expiration date,Ingredients",2,1,3,5,4,Yes,Social media,4.0,No,,,,No Say
