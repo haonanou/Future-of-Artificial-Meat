@@ -1,6 +1,7 @@
 var view;
 
-var spec = './map-bar.vl.json';
+// var spec = './map-bar.vl.json';
+var spec = './bars.vl.json';
 var spec1 = './bethold.vl.json';
 
 vegaEmbed("#p_value", spec1).then( _ => {
@@ -11,6 +12,7 @@ vegaEmbed('#vis', spec).then( ({view}) => {
     // console.log(view);
     const data = view.data('am').slice();
     let svg = initD3(data);
+    createMap(data);
     // console.log(view.getState())
     function signalEventHanlder (handler) {
         view.addSignalListener('brush1', (name, value) => {
@@ -40,6 +42,7 @@ vegaEmbed('#vis', spec).then( ({view}) => {
             d3.select('#treemap svg').remove();
         }
         svg = initD3(filtered);
+        createMap(filtered);
         // console.log(filtered)
     })
 }).catch(console.error)
