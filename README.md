@@ -4,7 +4,7 @@
 
 # Running the visualization
 
-The recommended way to run the code is to use a server so that there are no blocking agents from website. No compelation is required, Although internet is required.
+The recommended way to run the code is to use a server so that there are no blocking agents from browser. No compilation is required, Although internet is required, since data is an external source and also the libraries required to run the visualization.
 
 1. Using Python
 
@@ -23,3 +23,15 @@ $ python -m SimpleHttpServer
 https://ssuwal.github.io/visualization-combined
 
 3. Use any server of choice node or apache server.
+
+
+## Libraries Used
+
+1. Leaflet JS, LeafLet HeatMap JS and Leaflet CSS
+2. JQuery
+3. Lodash
+4. Vega lite, Vega Embed and Vega JS
+5. D3 JS
+6. Observablehq/stdlib JS
+7. RxJS
+8. Bootstrap JS and Bootstrap CSS required by leaflet JS
