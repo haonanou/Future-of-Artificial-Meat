@@ -4,7 +4,7 @@
 
 # Running the visualization
 
-The recommended way to run the code is to use a server so that there are blocking agents from website. No compelation is required, Although internet is required.
+The recommended way to run the code is to use a server so that there are no blocking agents from website. No compelation is required, Although internet is required.
 
 1. Using Python
 
