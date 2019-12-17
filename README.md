@@ -54,3 +54,8 @@ https://ssuwal.github.io/visualization-combined
 6. Observablehq/stdlib JS
 7. RxJS
 8. Bootstrap JS and Bootstrap CSS required by leaflet JS
+
+# Kitchen Sink Repository
+
+- Repository used over semester to commit and gather work from all group members.
+https://github.com/ssuwal/project1-discussion
