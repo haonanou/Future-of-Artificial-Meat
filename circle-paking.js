@@ -68,6 +68,8 @@ color = d3.scaleLinear()
         .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
         .interpolate(d3.interpolateHcl)
 
+const nocolor = d3.scaleSequential([8, 0], d3.interpolateMagma);
+
 const pack = data => d3.pack()
     .size([width, height])
     .padding(3)
@@ -90,7 +92,8 @@ function d3render (data) {
                 .attr("viewBox", `-${width / 2} -${height / 2} ${width} ${height}`)
                 .style("display", "block")
                 .style("margin", "0 -14px")
-                .style("background", color(0))
+                .style("background", "rgb(221, 236, 236)")
+                // .style("background", color(0))
                 .style("cursor", "pointer")
                 .on("click", () => zoom(root));
     
@@ -98,7 +101,12 @@ function d3render (data) {
                 .selectAll("circle")
                 .data(root.descendants().slice(1))
                 .join("circle")
-                .attr("fill", d => d.children ? color(d.depth) : "white")
+                .attr("fill", d => {
+                    const ancestors = d.ancestors();
+                    const q9 = ancestors.find(n => n.data.name === 'q9_yes');
+                    const ncolor = q9 ? color : nocolor;
+                    return d.children ? ncolor(d.depth) : "white";
+                })
                 .attr("pointer-events", d => !d.children ? "none" : null)
                 .on("mouseover", function() { d3.select(this).attr("stroke", "#000"); })
                 .on("mouseout", function() { d3.select(this).attr("stroke", null); })
