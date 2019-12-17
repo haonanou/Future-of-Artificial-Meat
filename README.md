@@ -1,4 +1,4 @@
-# Porject Directory
+# Project Directory
 
 - __presentation__
     - data visualization ppt.pptx (presentation file)
