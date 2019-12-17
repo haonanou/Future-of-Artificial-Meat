@@ -53,10 +53,21 @@ svg {
   stroke-opacity: .5;
   stroke-width: 1px;
 }
+.header {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+    width: fit-content;
+    text-decoration: underline;
+}
 
 
 </style>
 <body>
+    <div class="header">Parallel Coordinate Visualization</div>
+    <div id="parallel">
+    </div>
 <script src="https://cdn.jsdelivr.net/npm/d3@3.5.17/d3.min.js"></script>
 <!-- <script src="main.js"></script> -->
 <script>
@@ -104,7 +115,7 @@ const line = d3.svg.line()
 
 const yAxis = d3.svg.axis().orient('left');
 
-const svg = d3.select('body').append('svg')
+const svg = d3.select('#parallel').append('svg')
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
             .append("g")
