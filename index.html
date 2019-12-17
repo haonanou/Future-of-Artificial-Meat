@@ -74,7 +74,7 @@
             width: 700px;
             height: 700px;
             display: block !important;
-            margin-top: 90px;
+            /* margin-top: 90px; */
         }
         #circle_packing svg {
             width: 700px;
@@ -181,6 +181,21 @@
             font-family: monospace;
         }
 
+        .extra_vis {
+            margin-top: 100px;
+            display: flex;
+            flex-flow: row nowrap;
+        }
+
+        div#paraller_iframe iframe {
+            width: 100%;
+            height: 100%;
+        }
+
+        div#paraller_iframe {
+            width: 50%;
+            height: 100%;
+        }
 
 
     </style>
@@ -199,7 +214,12 @@
         </div>
         <div id="circle_packing"></div>
     </div>
-    <div id="treemap"></div>
+    <div class="extra_vis">
+        <div id="treemap"></div>
+        <div id="paraller_iframe">
+            <iframe src="parallel-coordinate.html" frameborder="0"></iframe>
+        </div>
+    </div>
     <script src="nested-treemap.js"></script>
     <script src="circle-paking.js"></script>
     <script src="pymap.js"></script>

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+svg {
+  font: 12px sans-serif;
+}
+
+.background path {
+  fill: none;
+  stroke: none;
+  stroke-width: 20px;
+  pointer-events: stroke;
+}
+
+.foreground path {
+  fill: none;
+  /* stroke: steelblue; */
+  stroke-width: 1.5px;
+}
+
+.axis .title {
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.axis line,
+.axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis.string {
+  font-size: 6px;
+}
+
+.label {
+  -webkit-transition: fill 125ms linear;
+}
+
+.active .label:not(.inactive) {
+  font-weight: bold;
+  font-size: 11px;
+}
+
+.label.inactive {
+  fill: #ccc;
+}
+
+.foreground path.inactive {
+  stroke: #ccc;
+  stroke-opacity: .5;
+  stroke-width: 1px;
+}
+
+
+</style>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/d3@3.5.17/d3.min.js"></script>
+<!-- <script src="main.js"></script> -->
+<script>
+    
+var margin = {top: 30, right: 40, bottom: 20, left: 100},
+width = 960 - margin.left - margin.right,
+height = 500 - margin.top - margin.bottom;
+const dataURL = "https://gist.githubusercontent.com/ssuwal/b0e150a81b2815e1013b39ec4ca27b8f/raw/71adc2e610c114e94316d17b548080edca0f6eda/data-processed-complete.csv";
+
+const dimensions = [
+    {
+        name: 'Q1',
+        scale: d3.scale.ordinal().rangePoints([0, height]),
+        type: "string"
+    },
+    {
+        name: 'Q9',
+        scale: d3.scale.ordinal().rangePoints([0, height]),
+        type: "string"
+    },
+    {
+        name: 'Q10',
+        scale: d3.scale.ordinal().rangePoints([0, height]),
+        type: "string"
+    },
+    {
+        name: 'Q12',
+        scale: d3.scale.ordinal().rangePoints([0, height]),
+        type: "string"
+    },
+    {
+        name: 'Q16',
+        scale: d3.scale.ordinal().rangePoints([0, height]),
+        type: "string"
+    },
+];
+
+const x = d3.scale.ordinal()
+            .domain(dimensions.map(d => d.name))
+            .rangePoints([0, width]);
+
+
+const line = d3.svg.line()
+            .defined(d => !isNaN(d[1]));
+
+const yAxis = d3.svg.axis().orient('left');
+
+const svg = d3.select('body').append('svg')
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+const dimension = svg.selectAll('.dimension')
+                .data(dimensions)
+                .enter().append('g')
+                .attr('class', 'dimension')
+                .attr('transform', d => `translate(${x(d.name)})`);
+
+d3.csv(dataURL, (data) => {
+    dimensions.forEach( dim => {
+        dim.scale.domain(dim.type === "number"
+        ? d3.extent(data, function(d) { return +d[dim.name]; })
+        : data.map(function(d) { return d[dim.name]; }).sort())
+    });
+
+    svg.append("g")
+      .attr("class", "background")
+    .selectAll("path")
+      .data(data)
+    .enter().append("path")
+      .attr("d", draw);
+
+  svg.append("g")
+      .attr("class", "foreground")
+    .selectAll("path")
+      .data(data)
+    .enter().append("path")
+      .attr("d", draw)
+      .attr('stroke', x => {
+        return x.Q9 === 'Yes' ? 'steelblue' : 'red';
+      });
+
+  dimension.append("g")
+      .attr("class", "axis")
+      .each(function(d) { d3.select(this).call(yAxis.scale(d.scale)); })
+    .append("text")
+      .attr("class", "title")
+      .attr("text-anchor", "middle")
+      .attr("y", -9)
+      .text(function(d) { return d.name; });
+
+  var ordinal_labels = svg.selectAll(".axis text")
+      .on("mouseover", mouseover)
+      .on("mouseout", mouseout);
+
+  var projection = svg.selectAll(".background path,.foreground path")
+      .on("mouseover", mouseover)
+      .on("mouseout", mouseout);
+
+  function mouseover(d) {
+    svg.classed("active", true);
+    console.log('mouse over');
+
+    // this could be more elegant
+    if (typeof d === "string") {
+      projection.classed("inactive", function(p) { return p.name !== d; });
+      projection.filter(function(p) { return p.name === d; }).each(moveToFront);
+      ordinal_labels.classed("inactive", function(p) { return p !== d; });
+      ordinal_labels.filter(function(p) { return p === d; }).each(moveToFront);
+    } else {
+      projection.classed("inactive", function(p) { return p !== d; });
+      projection.filter(function(p) { return p === d; }).each(moveToFront);
+      ordinal_labels.classed("inactive", function(p) { return p !== d.name; });
+      ordinal_labels.filter(function(p) { return p === d.name; }).each(moveToFront);
+    }
+  }
+
+  function mouseout(d) {
+    svg.classed("active", false);
+    projection.classed("inactive", false);
+    ordinal_labels.classed("inactive", false);
+  }
+
+  function moveToFront() {
+    this.parentNode.appendChild(this);
+  }
+});
+
+function draw(d) {
+  return line(dimensions.map(function(dimension) {
+    return [x(dimension.name), dimension.scale(d[dimension.name])];
+  }));
+}
+</script>
+</body>
+</html>
