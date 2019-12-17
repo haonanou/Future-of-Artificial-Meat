@@ -1,3 +1,22 @@
+# Porject Directory
+
+- __presentation__
+    - data visualization ppt.pptx (presentation file)
+- __report-qualitrics__
+    - Default Report.pdf (Auto Generated Report from Qualitrics Survey)
+- index.html (file serving visualiazation)
+- bars.vl.json (vegalite histogram)
+- bethold.vl.json (vegalite p-value bar charts)
+- circle-packing.js (helper file to draw circle packing)
+- density-geomap.html (iframed in index.html geomap with density)
+- main.js (Main JS entry file)
+- nested-treemap.js (Helper file to draw hierarchical treemap)
+- parallel-coordinate.html (iframed parallel coordinate in index.html)
+- pymap.js (Draws density geomap interactive)
+- processed-complete.csv (copy of processed csv file)
+    - using link in project `https://gist.githubusercontent.com/ssuwal/b0e150a81b2815e1013b39ec4ca27b8f/raw/71adc2e610c114e94316d17b548080edca0f6eda/data-processed-complete.csv`
+- survey-questions.md (List of survey questions)
+
 # Slides
 
  - Slides are located in the presentation folder. The file size is 78 MB due to video embedded in the presentation.
