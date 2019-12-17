@@ -23,6 +23,8 @@
 
 # Running the visualization
 
+_**Recommended Browser is Chrome, since some parts aren't rendered accurately in other Browser**_
+
 The recommended way to run the code is to use a server so that there are no blocking agents from browser. No compilation is required, Although internet is required, since data is an external source and also the libraries required to run the visualization.
 
 1. Using Python
