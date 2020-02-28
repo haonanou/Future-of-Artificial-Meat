@@ -14,7 +14,6 @@
 - parallel-coordinate.html (iframed parallel coordinate in index.html)
 - pymap.js (Draws density geomap interactive)
 - processed-complete.csv (copy of processed csv file)
-    - using link in project `https://gist.githubusercontent.com/ssuwal/b0e150a81b2815e1013b39ec4ca27b8f/raw/71adc2e610c114e94316d17b548080edca0f6eda/data-processed-complete.csv`
 - survey-questions.md (List of survey questions)
 
 # Slides
