@@ -41,7 +41,7 @@ $ python -m SimpleHttpServer
 
 2. Use github pages link
 
-https://ssuwal.github.io/visualization-combined
+https://haonanou.github.io/Future-of-Artificial-Meat
 
 3. Use any server of choice node or apache server.
 
